@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Teriyaki",
+      "image": "https://example.com/images/chicken_teriyaki.jpg",
+      "description": "A Japanese dish with grilled chicken glazed in sweet soy sauce.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "2 tbsp sugar",
+        "1 tsp ginger paste",
+        "50 g sesame seeds"
+      ],
+      "preparing_time":30,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Carbonara",
+      "image": "https://example.com/images/spaghetti_carbonara.jpg",
+      "description": "Creamy Italian pasta made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "400 g spaghetti",
+        "100 g pancetta",
+        "2 eggs",
+        "50 g Parmesan cheese",
+        "1 tsp black pepper"
+      ],
+      "preparing_time": 25,
+      "calories": 400
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Mushroom Risotto",
+      "image": "https://example.com/images/mushroom_risotto.jpg",
+      "description": "A rich and creamy Italian rice dish with sautéed mushrooms.",
+      "ingredients": [
+        "400 g Arborio rice",
+        "200 g mushrooms",
+        "100 ml white wine",
+        "1 onion",
+        "50 g Parmesan cheese"
+      ],
+      "preparing_time": 35,
+      "calories": "360 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Chicken Caesar Salad",
+      "image": "https://example.com/images/chicken_caesar_salad.jpg",
+      "description": "Crispy lettuce with grilled chicken, croutons, and Caesar dressing.",
+      "ingredients": [
+        "300 g chicken breast",
+        "1 romaine lettuce",
+        "50 g croutons",
+        "30 ml Caesar dressing",
+        "20 g Parmesan cheese"
+      ],
+      "preparing_time": 20,
+      "calories": 250
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Vegetable Stir-fry",
+      "image": "https://example.com/images/vegetable_stirfry.jpg",
+      "description": "Quick and healthy stir-fry with mixed vegetables and soy sauce.",
+      "ingredients": [
+        "200 g broccoli",
+        "100 g bell pepper",
+        "100 g carrot",
+        "2 tbsp soy sauce",
+        "1 tbsp olive oil"
+      ],
+      "preparing_time": 15,
+      "calories": 180
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Avocado Toast",
+      "image": "https://example.com/images/avocado_toast.jpg",
+      "description": "Simple and nutritious toast topped with mashed avocado.",
+      "ingredients": [
+        "1 avocado",
+        "2 slices of bread",
+        "1 tsp lemon juice",
+        "1 pinch salt",
+        "1 pinch chili flakes"
+      ],
+      "preparing_time": 10,
+      "calories": 220
+    }
+  ]
+  
